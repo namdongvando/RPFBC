@@ -4,7 +4,7 @@
     "description": "Create Form",
     "keywords": ["php","html","form"],
     "homepage": "http://nguyenvando.net/pfbc",
-    "license": "SPDX",
+    "license": "MIT",
     "authors": [
         {
             "email": "namdong92@gmail.com",

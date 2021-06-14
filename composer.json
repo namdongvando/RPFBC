@@ -9,11 +9,7 @@
         {
             "email": "namdong92@gmail.com",
             "role": "Owner"
-        },
-		{
-            "email": "namdong92@gmail.com",
-            "role": "Committer"
-        }
+        } 
     ],
     "require": {
         "php": ">=7.0"

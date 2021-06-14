@@ -29,8 +29,7 @@ Composer is the easiest way to manage dependencies in your project. Create a fil
 And run Composer to install PFBC:
 
 ```bash
-$ curl -s http://getcomposer.org/installer | php
-$ composer.phar install
+composer require namdongvando/rpfbc 
 ```
 
 ## Examples/Tutorials

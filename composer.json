@@ -1,17 +1,17 @@
 {
-    "name": "pfbc/pfbc",
+    "name": "namdongvando/pfbc",
     "type": "library",
-    "description": "Rapid form bulding in PHP",
+    "description": "Create Form",
     "keywords": ["php","html","form"],
-    "homepage": "http://code.google.com/p/php-form-builder-class/",
+    "homepage": "http://nguyenvando.net/pfbc",
     "license": "GNU GPL v3",
     "authors": [
         {
-            "email": "ajporterfield@gmail.com",
+            "email": "namdong92@gmail.com",
             "role": "Owner"
         },
 		{
-            "email": "moncojhr@gmail.com",
+            "email": "namdong92@gmail.com",
             "role": "Committer"
         }
     ],

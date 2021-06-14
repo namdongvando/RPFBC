@@ -36,12 +36,7 @@ $ composer.phar install
 ## Examples/Tutorials
 
 The links provided below are meant to demonstrate the key features included in the project. Currently, these links are using the pfbc3.0-php5 release, please see the examples included with the project for PHP 5.3 namespaced examples.
-
-* [Form Elements](http://www.imavex.com/pfbc3.x-php5/examples/form-elements.php)
-* [HTML5](http://www.imavex.com/pfbc3.x-php5/examples/html5.php)
-* [Views](http://www.imavex.com/pfbc3.x-php5/examples/views.php)
-* [Validation](http://www.imavex.com/pfbc3.x-php5/examples/validation.php)
-* [Ajax](http://www.imavex.com/pfbc2.x-php5/examples/ajax.php)
+ 
 
 ## Code Samples
 

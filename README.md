@@ -21,7 +21,7 @@ Composer is the easiest way to manage dependencies in your project. Create a fil
 ```json
 {
     "require": {
-       "namdongvando/rpfbc": "^3.2"
+       "namdongvando/rpfbc": "^3.21"
     }
 }
 ```

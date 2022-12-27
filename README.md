@@ -21,7 +21,7 @@ Composer is the easiest way to manage dependencies in your project. Create a fil
 ```json
 {
     "require": {
-       "namdongvando/rpfbc": "^3.21"
+       "namdongvando/rpfbc": "^3.3"
     }
 }
 ```
@@ -36,6 +36,7 @@ composer require namdongvando/rpfbc
 
 The links provided below are meant to demonstrate the key features included in the project. Currently, these links are using the pfbc3.0-php5 release, please see the examples included with the project for PHP 5.3 namespaced examples.
  
+
 
 ## Code Samples
 
@@ -57,3 +58,6 @@ $form->addElement(new PFBC\Element\Button);
 $form->render();
 ?>
 ```
+
+3.3
+Add form render
